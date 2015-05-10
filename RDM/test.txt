@@ -1,0 +1,65 @@
+2015-05-10 19:12:15,122 INFO  [BaseTest] ======================== 
+2015-05-10 19:12:15,125 INFO  [BaseTest] =====OPENING BROWSER==== 
+2015-05-10 19:12:15,125 INFO  [BaseTest] ======================== 
+2015-05-10 19:12:20,524 INFO  [BaseTest] ====================================== 
+2015-05-10 19:12:20,524 INFO  [BaseTest] 0 
+2015-05-10 19:12:20,524 INFO  [BaseTest] ====================================== 
+2015-05-10 19:12:20,607 INFO  [BaseTest] Bluefly - Designer Clothing, Handbags, Shoes & Accessories (Prada, Fendi, Gucci & more) at Discount Prices 
+2015-05-10 19:12:20,609 INFO  [BaseTest] ========================== 
+2015-05-10 19:12:20,609 INFO  [BaseTest] =====NOW-AT-WOMENT-PAGE=== 
+2015-05-10 19:12:20,609 INFO  [BaseTest] ========================== 
+2015-05-10 19:12:20,809 INFO  [BaseTest] =========================== 
+2015-05-10 19:12:20,810 INFO  [BaseTest] ====== CLOSING BROWSER ==== 
+2015-05-10 19:12:20,810 INFO  [BaseTest] =========================== 
+2015-05-10 19:16:54,153 INFO  [BaseTest] ======================== 
+2015-05-10 19:16:54,155 INFO  [BaseTest] =====OPENING BROWSER==== 
+2015-05-10 19:16:54,155 INFO  [BaseTest] ======================== 
+2015-05-10 19:16:58,174 INFO  [BaseTest] ====================================== 
+2015-05-10 19:16:58,175 INFO  [BaseTest] 0 
+2015-05-10 19:16:58,175 INFO  [BaseTest] ====================================== 
+2015-05-10 19:16:58,863 INFO  [BaseTest] Bluefly - Designer Clothing, Handbags, Shoes & Accessories (Prada, Fendi, Gucci & more) at Discount Prices 
+2015-05-10 19:16:58,865 INFO  [BaseTest] ========================== 
+2015-05-10 19:16:58,865 INFO  [BaseTest] =====NOW-AT-WOMENT-PAGE=== 
+2015-05-10 19:16:58,866 INFO  [BaseTest] ========================== 
+2015-05-10 19:16:58,945 INFO  [BaseTest] =========================== 
+2015-05-10 19:16:58,945 INFO  [BaseTest] ====== CLOSING BROWSER ==== 
+2015-05-10 19:16:58,945 INFO  [BaseTest] =========================== 
+2015-05-10 19:17:09,962 INFO  [BaseTest] ======================== 
+2015-05-10 19:17:09,965 INFO  [BaseTest] =====OPENING BROWSER==== 
+2015-05-10 19:17:09,965 INFO  [BaseTest] ======================== 
+2015-05-10 19:17:13,798 INFO  [BaseTest] ====================================== 
+2015-05-10 19:17:13,799 INFO  [BaseTest] 0 
+2015-05-10 19:17:13,799 INFO  [BaseTest] ====================================== 
+2015-05-10 19:17:14,598 INFO  [BaseTest] Bluefly - Designer Clothing, Handbags, Shoes & Accessories (Prada, Fendi, Gucci & more) at Discount Prices 
+2015-05-10 19:17:14,600 INFO  [BaseTest] ========================== 
+2015-05-10 19:17:14,600 INFO  [BaseTest] =====NOW-AT-WOMENT-PAGE=== 
+2015-05-10 19:17:14,600 INFO  [BaseTest] ========================== 
+2015-05-10 19:17:14,665 INFO  [BaseTest] =========================== 
+2015-05-10 19:17:14,665 INFO  [BaseTest] ====== CLOSING BROWSER ==== 
+2015-05-10 19:17:14,666 INFO  [BaseTest] =========================== 
+2015-05-10 19:18:03,143 INFO  [BaseTest] ======================== 
+2015-05-10 19:18:03,145 INFO  [BaseTest] =====OPENING BROWSER==== 
+2015-05-10 19:18:03,145 INFO  [BaseTest] ======================== 
+2015-05-10 19:18:09,143 INFO  [BaseTest] ====================================== 
+2015-05-10 19:18:09,144 INFO  [BaseTest] 0 
+2015-05-10 19:18:09,144 INFO  [BaseTest] ====================================== 
+2015-05-10 19:18:09,159 INFO  [BaseTest] Bluefly - Designer Clothing, Handbags, Shoes & Accessories (Prada, Fendi, Gucci & more) at Discount Prices 
+2015-05-10 19:18:09,160 INFO  [BaseTest] ========================== 
+2015-05-10 19:18:09,160 INFO  [BaseTest] =====NOW-AT-WOMENT-PAGE=== 
+2015-05-10 19:18:09,161 INFO  [BaseTest] ========================== 
+2015-05-10 19:18:09,228 INFO  [BaseTest] =========================== 
+2015-05-10 19:18:09,228 INFO  [BaseTest] ====== CLOSING BROWSER ==== 
+2015-05-10 19:18:09,228 INFO  [BaseTest] =========================== 
+2015-05-10 19:19:05,689 INFO  [BaseTest] ======================== 
+2015-05-10 19:19:05,691 INFO  [BaseTest] =====OPENING BROWSER==== 
+2015-05-10 19:19:05,691 INFO  [BaseTest] ======================== 
+2015-05-10 19:19:11,624 INFO  [BaseTest] ====================================== 
+2015-05-10 19:19:11,625 INFO  [BaseTest] 0 
+2015-05-10 19:19:11,625 INFO  [BaseTest] ====================================== 
+2015-05-10 19:19:11,639 INFO  [BaseTest] Bluefly - Designer Clothing, Handbags, Shoes & Accessories (Prada, Fendi, Gucci & more) at Discount Prices 
+2015-05-10 19:19:11,641 INFO  [BaseTest] ========================== 
+2015-05-10 19:19:11,641 INFO  [BaseTest] =====NOW-AT-WOMENT-PAGE=== 
+2015-05-10 19:19:11,641 INFO  [BaseTest] ========================== 
+2015-05-10 19:19:11,818 INFO  [BaseTest] =========================== 
+2015-05-10 19:19:11,818 INFO  [BaseTest] ====== CLOSING BROWSER ==== 
+2015-05-10 19:19:11,818 INFO  [BaseTest] =========================== 
